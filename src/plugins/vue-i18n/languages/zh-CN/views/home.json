@@ -1,0 +1,18 @@
+{
+  "menuName": "首页",
+  "menuDescription": "",
+  "workbench": {
+    "menuName": "工作台",
+    "menuDescription": "",
+    "welcome": "欢迎回来，",
+    "shortcuts": "快捷操作",
+    "role": "角色：",
+    "department": "部门：",
+    "active": "最近活跃",
+    "calendar": "待办"
+  },
+  "dashboard": {
+    "menuName": "仪表盘",
+    "menuDescription": ""
+  }
+}
